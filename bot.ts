@@ -2,7 +2,7 @@ import { Telegraf, Markup } from "telegraf";
 import Database from "better-sqlite3";
 
 /* ================= CONFIG ================= */
-const BOT_TOKEN = "8519288235:AAHv5S9ZKv0aKT8XrWmHdVnXGAHeVi0NMw0";
+const BOT_TOKEN = "8383631383:AAHPHg-QMId9NM2nBNzcaL_L3XT9AWvC_6w";
 const ADMIN_ID = 7076284067;
 const PAYMENT_NUMBER = "01902954758";
 const MIN_WITHDRAW = 100;
