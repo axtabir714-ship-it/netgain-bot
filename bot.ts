@@ -144,7 +144,7 @@ bot.hears("🔗 Referral Link", ctx=>{
 
  if(!u.premium) return ctx.reply("Premium লাগবে");
 
- ctx.reply(`https://t.me/Netgainv1bot?start=${id}`);
+ ctx.reply(`https://t.me/@NetgainBot?start=${id}`);
 });
 
 /* ================= TEXT STEPS ================= */
